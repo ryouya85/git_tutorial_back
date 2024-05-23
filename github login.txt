@@ -1,0 +1,3 @@
+github　ログイン
+git config --global user.email ryouya3ds@yahoo.co.jp
+git config --global --unset user.name ryouya85
